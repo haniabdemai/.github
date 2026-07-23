@@ -1,4 +1,4 @@
-# See some of my projects below. They were all built out of needs I experienced myself, and hopefully they may be of use to you as well.
+See some of my projects below. They were all built out of needs I experienced myself, and hopefully they may be of use to you as well.
 
 ## Products
 
